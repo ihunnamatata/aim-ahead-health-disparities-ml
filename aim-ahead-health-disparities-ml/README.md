@@ -1,4 +1,4 @@
-# 🌍 AIM-AHEAD Health Disparities ML (Simulated Demo)
+# AIM-AHEAD Health Disparities ML (Simulated Demo)
 
 This project replicates the structure and analysis of a real AIM-AHEAD/NCATS ML study on health disparities in COVID-19 mortality among cardiovascular patients. The original research was conducted on secure, real-world electronic health record (EHR) data housed within the NCATS N3C enclave and presented at the AIM-AHEAD AI4Equity Symposium.
 
@@ -6,7 +6,7 @@ This project replicates the structure and analysis of a real AIM-AHEAD/NCATS ML 
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 - Predict COVID-19 mortality using ML models (logistic regression, random forest)
 - Analyze impact of race, sex, vaccination status, and age on outcomes
@@ -16,7 +16,7 @@ This project replicates the structure and analysis of a real AIM-AHEAD/NCATS ML 
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 pip install -r requirements.txt
@@ -27,7 +27,7 @@ Or open `notebooks/disparities_model_v2.ipynb` to explore the code.
 
 ---
 
-## 🧠 Models Used
+## Models Used
 
 - Logistic Regression  
 - Random Forest  
@@ -43,7 +43,7 @@ Or open `notebooks/disparities_model_v2.ipynb` to explore the code.
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 - `data/` – Synthetic patient dataset  
 - `notebooks/` – ML analysis notebook  
@@ -53,7 +53,7 @@ Or open `notebooks/disparities_model_v2.ipynb` to explore the code.
 
 ---
 
-## 👩🏾‍⚕️ Author
+## Author
 
 **Ihunna Amugo**  
 DDS Candidate | MHA | MS | REHS | PhD(c) Computational Engineering  
