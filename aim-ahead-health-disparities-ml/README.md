@@ -35,7 +35,7 @@ Or open `notebooks/disparities_model_v2.ipynb` to explore the code.
 
 ---
 
-## 📊 Features
+## Features
 
 - ROC curves and classification metrics  
 - Feature importance visualization  
